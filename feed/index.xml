@@ -5,14 +5,17 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>myendlesspto - Just another WordPress site</title>
+	<title>My Endless PTO</title>
 	<atom:link href="http://myendlesspto.me/feed/" rel="self" type="application/rss+xml" />
 	<link>http://myendlesspto.me/</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 22 Sep 2022 19:41:14 +0000</lastBuildDate>
+	<description>Travel stories of a burned-out, former 9-5er</description>
+	<lastBuildDate>Tue, 27 Sep 2022 18:29:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,8 +23,71 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Hello world!</title>
-		<link>http://myendlesspto.me/hello-world/</link>
+		<title>5 Things to Know Before Visiting Big Buddha Phuket</title>
+		<link>http://myendlesspto.me/5-things-to-know-before-visiting-big-buddha-phuket/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=5-things-to-know-before-visiting-big-buddha-phuket</link>
+					<comments>http://myendlesspto.me/5-things-to-know-before-visiting-big-buddha-phuket/#respond</comments>
+		
+		<dc:creator><![CDATA[myendlesspto]]></dc:creator>
+		<pubDate>Fri, 23 Sep 2022 16:37:27 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://myendlesspto.me/?p=21</guid>
+
+					<description><![CDATA[<p>1. Beware of taxi/ride scams I called a ride via inDriver from my hotel on Karon Beach to Big Buddha for ฿225 but I had a hard time finding a ride back from Big Buddha. I was caught off-guard by the taxi monopoly situation at the site where taxi drivers would crowd the entrance/exit of Big Buddha and aggressively fend off drivers they suspect are working for ride-hailing services. These taxis were asking ฿800 for a one-way ride back to Phuket Town. Unfortunately I witnessed quite a few tourists with no other alternatives agreeing to the price without second thoughts. I eventually secured a ride via inDriver again but my driver was followed by the taxi mafias and had to lie that he was there to take photos to get himself out of the situation. Just when I thought we were safe, my driver attempted to offer &#8220;side trips&#8221; (in hopes of charging extra, of course), drove in the wrong direction (which I caught very quickly as I already grew suspicious of him), then made an unannounced stop at the gas station when he asked for gas money (he claimed that he paid an entrance fee to pick me up at Big Buddha, which I knew was false as my first driver did not when he dropped us off). I was fortunate to be extra alert on all his scam attempts but I could only imagine how easy it is for many to fall victim to these scams, especially as a tourist who does not speak Thai. 2. Consider hiring a driver or joining a day tour Because transport is obviously a struggle if you do not have your own, I would highly recommend hiring a personal driver for your visit to Big Buddha. There are numerous ways you can do so: visit Klook to rent a private driver or speak to your hotel or one of the many local travel/tour agencies. I personally like upfront price transparency, cashless transactions, and customer support when needed &#8211; all of which explain my preference for Klook. If you want to avoid planning for your trip altogether, you can consider joining a half-day or full-day tour which includes Big Buddha as a destination. I spent ฿495 on my rides to and from Big Buddha, which could already afford me a half-day island tour of Phuket. The transport fees alone might be enough to justify joining a tour instead. 3. Check the weather Phuket receives a generous amount of rain all-year long, even when the monsoon season is over. It goes without saying that you should check the local weather before deciding when to visit Big Buddha or anywhere in Phuket. Another thing to note is that rain showers in Phuket can be extremely temperamental and sometimes scattered, so it is always a good idea to bring along an umbrella and/or raincoat in preparation of sudden downpours. 4. Cover your shoulders and legs When visiting a sacred, religious place like the Big Buddha, make sure to dress modestly and cover your shoulders and legs. Previously you were able to loan a sarong or shawl for free if you arrived without appropriate clothing but you would now have to buy one for ฿150. 5. Avoid going down the stairs leading up to the Big Buddha The main stairs leading up to the Big Buddha allows only one-way traffic. There is a security officer at the halfway-point of the stairs making sure no visitors go back down using the stairs. They have a designated exit route for visitors to get back down and it is fortunately not very far from the main stairs if you want to walk up to the statue again.</p>
+<p>The post <a rel="nofollow" href="http://myendlesspto.me/5-things-to-know-before-visiting-big-buddha-phuket/">5 Things to Know Before Visiting Big Buddha Phuket</a> appeared first on <a rel="nofollow" href="http://myendlesspto.me/">My Endless PTO</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong>1. Beware of taxi/ride scams</strong></p>
+
+
+
+<p>I called a ride via inDriver from my hotel on Karon Beach to Big Buddha for ฿225 but I had a hard time finding a ride back from Big Buddha. I was caught off-guard by the taxi monopoly situation at the site where taxi drivers would crowd the entrance/exit of Big Buddha and aggressively fend off drivers they suspect are working for ride-hailing services. These taxis were asking ฿800 for a one-way ride back to Phuket Town. Unfortunately I witnessed quite a few tourists with no other alternatives agreeing to the price without second thoughts. I eventually secured a ride via inDriver again but my driver was followed by the taxi mafias and had to lie that he was there to take photos to get himself out of the situation. Just when I thought we were safe, my driver attempted to offer &#8220;side trips&#8221; (in hopes of charging extra, of course), drove in the wrong direction (which I caught very quickly as I already grew suspicious of him), then made an unannounced stop at the gas station when he asked for gas money (he claimed that he paid an entrance fee to pick me up at Big Buddha, which I knew was false as my first driver did not when he dropped us off). I was fortunate to be extra alert on all his scam attempts but I could only imagine how easy it is for many to fall victim to these scams, especially as a tourist who does not speak Thai.</p>
+
+
+
+<p><strong>2. Consider hiring a driver or joining a day tour</strong></p>
+
+
+
+<p>Because transport is obviously a struggle if you do not have your own, I would highly recommend hiring a personal driver for your visit to Big Buddha. There are numerous ways you can do so: visit <a href="https://s.klook.com/c/vw078k" target="_blank" rel="noreferrer noopener">Klook</a> to rent a private driver or speak to your hotel or one of the many local travel/tour agencies. I personally like upfront  price transparency, cashless transactions, and customer support when needed &#8211; all of which explain my preference for <a href="https://s.klook.com/c/vw078k" target="_blank" rel="noreferrer noopener">Klook</a>. </p>
+
+
+
+<p>If you want to avoid planning for your trip altogether, you can consider joining a half-day or full-day tour which includes Big Buddha as a destination. I spent ฿495 on my rides to and from Big Buddha, which could already afford me a half-day island tour of Phuket. The transport fees alone might be enough to justify joining a tour instead. </p>
+
+
+
+<p><strong>3. Check the weather </strong></p>
+
+
+
+<p>Phuket receives a generous amount of rain all-year long, even when the monsoon season is over. It goes without saying that you should check the local weather before deciding when to visit Big Buddha or anywhere in Phuket. Another thing to note is that rain showers in Phuket can be extremely temperamental and sometimes scattered, so it is always a good idea to bring along an umbrella and/or raincoat in preparation of sudden downpours. </p>
+
+
+
+<p><strong>4. Cover your shoulders and legs</strong></p>
+
+
+
+<p>When visiting a sacred, religious place like the Big Buddha, make sure to dress modestly and cover your shoulders and legs. Previously you were able to loan a sarong or shawl for free if you arrived without appropriate clothing but you would now have to buy one for ฿150. </p>
+
+
+
+<p><strong>5. Avoid going down the stairs leading up to the Big Buddha</strong></p>
+
+
+
+<p>The main stairs leading up to the Big Buddha allows only one-way traffic. There is a security officer at the halfway-point of the stairs making sure no visitors go back down using the stairs. They have a designated exit route for visitors to get back down and it is fortunately not very far from the main stairs if you want to walk up to the statue again. </p>
+<p>The post <a rel="nofollow" href="http://myendlesspto.me/5-things-to-know-before-visiting-big-buddha-phuket/">5 Things to Know Before Visiting Big Buddha Phuket</a> appeared first on <a rel="nofollow" href="http://myendlesspto.me/">My Endless PTO</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://myendlesspto.me/5-things-to-know-before-visiting-big-buddha-phuket/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>About Me</title>
+		<link>http://myendlesspto.me/hello-world/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
 					<comments>http://myendlesspto.me/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[myendlesspto]]></dc:creator>
@@ -29,12 +95,16 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">http://myendlesspto.me/?p=1</guid>
 
-					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a rel="nofollow" href="http://myendlesspto.me/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="http://myendlesspto.me/">myendlesspto</a>.</p>
+					<description><![CDATA[<p>Welcome to my little slice of the internet! I&#8217;m so glad you are here and I hope you find your own inspirations and reasons to see the world like I did. A little bit about myself. I started traveling the globe as a digital nomad in 2021 when I temporarily had the opportunity to work remotely full-time. In early 2022, I got laid off in retaliation for refusing to go back to office in-person on a regular basis. I left my toxic 9-5 gladly and continued traveling the world without looking back. Since then, I&#8217;ve travelled to 9 countries, 16 cities, and counting.</p>
+<p>The post <a rel="nofollow" href="http://myendlesspto.me/hello-world/">About Me</a> appeared first on <a rel="nofollow" href="http://myendlesspto.me/">My Endless PTO</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a rel="nofollow" href="http://myendlesspto.me/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="http://myendlesspto.me/">myendlesspto</a>.</p>
+<p>Welcome to my little slice of the internet! I&#8217;m so glad you are here and I hope you find your own inspirations and reasons to see the world like I did. </p>
+
+
+
+<p>A little bit about myself. I started traveling the globe as a digital nomad in 2021 when I temporarily had the opportunity to work remotely full-time. In early 2022, I got laid off in retaliation for refusing to go back to office in-person on a regular basis. I left my toxic 9-5 gladly and continued traveling the world without looking back. Since then, I&#8217;ve travelled to 9 countries, 16 cities, and counting. </p>
+<p>The post <a rel="nofollow" href="http://myendlesspto.me/hello-world/">About Me</a> appeared first on <a rel="nofollow" href="http://myendlesspto.me/">My Endless PTO</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>http://myendlesspto.me/hello-world/feed/</wfw:commentRss>

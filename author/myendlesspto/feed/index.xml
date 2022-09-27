@@ -11,9 +11,9 @@
 	>
 
 <channel>
-	<title>Uncategorized Archives - My Endless PTO</title>
-	<atom:link href="http://myendlesspto.me/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>http://myendlesspto.me/category/uncategorized/</link>
+	<title>myendlesspto, Author at My Endless PTO</title>
+	<atom:link href="http://myendlesspto.me/author/myendlesspto/feed/" rel="self" type="application/rss+xml" />
+	<link>http://myendlesspto.me/author/myendlesspto/</link>
 	<description>Travel stories of a burned-out, former 9-5er</description>
 	<lastBuildDate>Tue, 27 Sep 2022 18:29:20 +0000</lastBuildDate>
 	<language>en-US</language>
